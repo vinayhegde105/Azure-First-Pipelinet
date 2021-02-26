@@ -29,4 +29,4 @@ stages:
       runOnce:
         deploy:
           steps:
-            - script: echo Deploy at QA Env
+            - script: echo Deploy at QA Envirment
